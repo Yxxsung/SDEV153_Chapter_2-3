@@ -1,13 +1,13 @@
 body{
     background-color: #FFFFFF;
     color: #666666;
-    font: Verdana;
+    font-family: Verdana;
 }
 
 header{
     background-color: #002171;
     color: #FFFFFF;
-    font: Georgia;
+    font-family: Georgia;
 }
 
 h1{
@@ -21,7 +21,7 @@ nav{
 
 h2{
     color: #1976D2;
-    font: Georgia;
+    font-family: Georgia;
 }
 
 dt{
