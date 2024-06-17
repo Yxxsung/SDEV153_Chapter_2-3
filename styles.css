@@ -39,3 +39,10 @@ footer{
     text-align: center;
     font-style: italic;
 }
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: #F0F0F0;
+}
